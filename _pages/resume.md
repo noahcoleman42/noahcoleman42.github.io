@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[My Resume](http://noahcoleman42.github.io/files/.pdf)
+[My Resume](http://noahcoleman42.github.io/files/ncoleman_resume.pdf)
 
 Education
 ======
