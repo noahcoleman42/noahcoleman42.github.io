@@ -1,10 +1,8 @@
 ---
 title: "Electronics Research Assistant"
 collection: experience
-type: "Partially remote"
 permalink: /experience/ussgpc
-venue: "Minnesota State University, Mankato"
-date: "Aug 2019-Nov 2020"
+venue: "Minnesota State University, Mankato, Aug 2019-Nov 2020"
 location: "Mankato, MN"
 ---
 
