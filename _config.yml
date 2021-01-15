@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Noah Coleman"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Noah Coleman"
 description              : &description "Computer engineering graduate"
