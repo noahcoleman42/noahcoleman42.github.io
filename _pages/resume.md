@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[My Resume](http://noahcoleman42.github.io/files/ncoleman_resume.pdf)
+<a href="http://noahcoleman42.github.io/files/ncoleman_resume.pdf" target="_blank">View PDF</a>
 
 Education
 ======
