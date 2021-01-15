@@ -3,7 +3,7 @@ title: "Electronics Research Assistant"
 collection: experience
 permalink: /experience/ussgpc
 venue: "Minnesota State University, Mankato"
-date: "Aug 2019-Nov 2020"
+type: "Aug 2019-Nov 2020"
 location: "Mankato, MN"
 ---
 

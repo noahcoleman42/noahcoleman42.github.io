@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'experience' %}
-          <p> <i>{{ page.venue }}</i>, {{ page.date }} </p>
+          <p> <i>{{ page.venue }}</i>, {{ post.type }} </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date }} </p>
         {% elsif page.date %}

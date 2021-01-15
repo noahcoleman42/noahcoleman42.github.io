@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'experience' %}
-          <p><i>{{ post.venue }}</i>, {{ post.date }} </p>
+          <p><i>{{ post.venue }}</i>, {{ post.type }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date }} </p>
         {% elsif post.date %}
