@@ -10,14 +10,14 @@ location: "Mankato, MN"
 Designed and built an electric vehicle and a current sensor printed circuit board to test a proof-of-concept bi-directional grid-compatible power converter.
 
 What is a bi-directional grid-compatible power converter?
-======
+------
 * The Universal and Scalable Smart Grid Power Converter (USSGPC) is intended to allow for AC or DC power at a variable voltage and frequency to be sourced or consumed to or from the grid.
   * This allows home batteries (like the Tesla Powerwall) or battery-powered electric vehicles to source power to the grid during power outages or brownouts.
 * The device is smart grid capable, allowing communication between converters and utility companies.
   * Communication between power sourcing converters and utility companies can reduce the need for peaker plants, which run at reduced efficiency to start up quickly.
 
 Electric Vehicle Design
-======
+------
 Designed and built an electric recumbent tricycle to test the USSGPC. This involved:
 * Learning about the CAN communication protocol.
 * Assembling a 48V 20AH Li-Ion battery and battery monitoring system.
@@ -32,7 +32,7 @@ Designed and built an electric recumbent tricycle to test the USSGPC. This invol
 * Providing technical documentation including project references and reports.
 
 Printed Circuit Board Design
-======
+------
 Designed a PCB in Altium to measure the current passing through the converter. This involved:
 * Creating schematic symbol libraries, and drawing schematics.
 * Creating footprints, and adding 3D models.
