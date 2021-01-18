@@ -13,6 +13,7 @@ What is a bi-directional grid-compatible power converter?
 ------
 The Universal and Scalable Smart Grid Power Converter (USSGPC) is intended to allow for AC or DC power at a variable voltage and frequency to be sourced or consumed to or from the grid.
 * This allows home batteries (like the Tesla Powerwall) or battery-powered electric vehicles to source power to the grid during power outages or brownouts.
+
 The device is smart grid capable, allowing communication between converters and utility companies.
 * Communication between power sourcing converters and utility companies can reduce the need for peaker plants, which run at reduced efficiency to start up quickly.
 
