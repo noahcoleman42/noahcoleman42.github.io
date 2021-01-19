@@ -1,6 +1,6 @@
 ---
 title: "Senior Design Project - CNC Milling Machine"
-excerpt: "Computer Numerically Controlled machine built using 3D printed parts that can carve wood and aluminum<br/><img src='/images/cnc-1.jpg'>"
+excerpt: "Computer Numerically Controlled machine built using 3D printed parts that can carve wood and aluminum<br/><img src='/images/cnc-1.jpg' width='701' height='629' alt='fully-assembled machine'>"
 collection: projects
 ---
 
