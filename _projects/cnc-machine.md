@@ -1,6 +1,6 @@
 ---
 title: "Senior Design Project - CNC Milling Machine"
-excerpt: "Computer Numerically Controlled machine built using 3D printed parts that can carve wood and aluminum<br/><img src='/images/cnc-1.jpg' alt='cnc machine' width='980' height='736'>"
+excerpt: "Computer Numerically Controlled machine built using 3D printed parts that can carve wood and aluminum<br/><a href='/projects/cnc-machine/'><img src='/images/cnc-1.jpg' alt='cnc machine' width='980' height='736'></a>"
 collection: projects
 ---
 
@@ -20,7 +20,7 @@ CNCjs allows users to manually control the movement of the machine to match the 
 
 How we built it
 ------
-We spent the first week determining the major components of the project. During this time, we drew sketches and decided what the end product would look like, which parts we would design to be 3D printed, and which would be purchased. Each week, we came together as a team to determine what would be best to work on next, and split the workload according to team member preferences. I wanted to learn how to make 3D models, so I modeled most of the parts. We based the models off of our sketches, and used Fusion 360 to turn the pen and paper designs into 3D models. The models were printed on Prusa machines with infill percentages between 20 and 30 percent depending on the part. 
+We spent the first week determining the major components of the project. During this time, we drew sketches and decided what the end product would look like, which parts we would design to be 3D printed, and which would be purchased. Each week, we came together as a team to determine what would be best to work on next and split the workload according to team member preferences. I wanted to learn how to make 3D models, so I modeled most of the parts. We based the models off of our sketches and used Fusion 360 to turn the pen and paper designs into 3D models. The models were printed on Prusa machines with infill percentages between 20 and 30 percent depending on the part. 
 
 Unfortunately, just after printing the final part, the school shut down due to COVID-19, and our group had to finish assembling the machine outside of the lab. We no longer had a good place to work on the project as a group, so I took the machine to my hometown to finish assembling it. After testing movement control of the spindle carrier, the final step before attaching a 500 Watt, 12,000 rpm tree carcass shaper to it was adding safety protection. This was assembled using plexiglass sheets epoxied together to create a shield between users and the cutting tool. The images below show the progress made to the machine.
 
