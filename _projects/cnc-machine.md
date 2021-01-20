@@ -36,7 +36,7 @@ Here you can see the beginnings of our project. The bent rod you see on the righ
     <img src='/images/spindle-holder-printed.jpg' alt='3D printed part laying on print bed' style='width:100%'>
   </div>
 </div>
-</br>
+<br/>
 
 Here are a few parts I 3D modeled and printed. The small rectangular holes are for sliding in nuts to secure machine screws.
 
@@ -52,7 +52,7 @@ This is as far as we got before campus was locked down.
     <img src='/images/wasteboard.jpg' alt='Wasteboard attached to machine plywood base' style='width:100%'>
   </div>
 </div>
-</br>
+<br/>
 
 Here I'm building the machine's base using plywood and t-nuts to secure waseboard and parts in the future.
 
