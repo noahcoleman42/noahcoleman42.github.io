@@ -191,12 +191,16 @@
   }
 }
 
-.left {
+.two-images {
   float: left;
+  width: 50%;
+  padding: 5px;
 }
 
-.right {
-  float: right;
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 /*

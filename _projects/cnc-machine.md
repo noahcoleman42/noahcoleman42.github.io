@@ -28,8 +28,10 @@ Unfortunately, just after printing the final part, the school shut down due to C
 
 Here you can see the beginnings of our project. The bent rod you see on the right is unfortunately not a fisheye distortion. The lead screw is really bent, and it really hurt our schedule waiting for a new one to arrive.
 
-<img class='left' src='/images/side-printed.jpg' alt='3D printed part laying on print bed' width='382' height='288'>
-<img class='right' src='/images/spindle-holder-printed.jpg' alt='3D printed part laying on print bed' width='382' height='288'>
+<div class='row'>
+  <img class='two-images' src='/images/side-printed.jpg' alt='3D printed part laying on print bed' style='width:100%'>
+  <img class='two-images' src='/images/spindle-holder-printed.jpg' alt='3D printed part laying on print bed' style='width:100%'>
+</div>
 
 Here are a few parts I 3D modeled and printed. The small rectangular holes are for sliding in nuts to secure machine screws.
 
@@ -37,8 +39,10 @@ Here are a few parts I 3D modeled and printed. The small rectangular holes are f
 
 This is as far as we got before campus was locked down.
 
-<img class='left' src='/images/t-nuts.jpg' alt='plywood machine base with holes for attaching parts and wasteboard' width='382' height='288'>
-<img class='right' src='/images/wasteboard.jpg' alt='Wasteboard attached to machine plywood base' width='382' height='288'>
+<div class='row'>
+  <img class='two-images' src='/images/t-nuts.jpg' alt='plywood machine base with holes for attaching parts and wasteboard' style='width:100%'>
+  <img class='two-images' src='/images/wasteboard.jpg' alt='Wasteboard attached to machine plywood base' style='width:100%'>
+</div>
 
 Here I'm building the machine's base using plywood and t-nuts to secure waseboard and parts in the future.
 
@@ -72,7 +76,7 @@ It started to look good after some sanding and a few coats of paint.
 
 <img src='/images/manc-ave3.jpg' alt='wooden sign with charred edges around letters'>
 
-I burnt the edges to give the sign a bit more character.
+Finally, I burnt the edges to give the sign a bit more character.
 
 This machine presents a number of oppurtunities to hobbyist makers. From prototyping parts to making art, after learning basic CAD and CAM, their ability is only limited by their imagination. We are proud to have designed and built our own CNC machine.
 
