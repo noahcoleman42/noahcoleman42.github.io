@@ -28,7 +28,7 @@ Unfortunately, just after printing the final part, the school shut down due to C
 
 Here you can see the beginnings of our project. The bent rod you see on the right is unfortunately not a fisheye distortion. The lead screw is really bent, and it really hurt our schedule waiting for a new one to arrive.
 
-<img src='/images/side-printed.jpg' alt='3D printed part laying on print bed'> <img src='/images/spindle-holder-printed.jpg' alt='3D printed part laying on print bed'>
+<img src='/images/side-printed.jpg' alt='3D printed part laying on print bed' width='384' height='288'> <img src='/images/spindle-holder-printed.jpg' alt='3D printed part laying on print bed' width='384' height='288'>
 
 Here are a few parts I 3D modeled and printed. The small rectangular holes are for sliding in nuts to secure machine screws.
 
@@ -36,7 +36,7 @@ Here are a few parts I 3D modeled and printed. The small rectangular holes are f
 
 This is as far as we got before campus was locked down.
 
-<img src='/images/t-nuts.jpg' alt='plywood machine base with holes for attaching parts and wasteboard'> <img src='/images/wasteboard.jpg' alt='Wasteboard attached to machine plywood base'>
+<img src='/images/t-nuts.jpg' alt='plywood machine base with holes for attaching parts and wasteboard' width='384' height='288'> <img src='/images/wasteboard.jpg' alt='Wasteboard attached to machine plywood base' width='384' height='288'>
 
 Here I'm building the machine's base using plywood and t-nuts to secure waseboard and parts in the future.
 
