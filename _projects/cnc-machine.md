@@ -22,37 +22,56 @@ How we built it
 ------
 We spent the first week determining the major components of the project. During this time, we drew sketches and decided what the end product would look like, which parts we would design to be 3D printed, and which would be purchased. Each week, we came together as a team to determine what would be best to work on next and split the workload according to team member preferences. I wanted to learn how to make 3D models, so I modeled most of the parts. We based the models off of our sketches and used Fusion 360 to turn the pen and paper designs into 3D models. The models were printed on Prusa machines with infill percentages between 20 and 30 percent depending on the part. 
 
-Unfortunately, just after printing the final part, the school shut down due to COVID-19, and our group had to finish assembling the machine outside of the lab. We no longer had a good place to work on the project as a group, so I took the machine to my hometown to finish assembling it. After testing movement control of the spindle carrier, the final step before attaching a 500 Watt, 12,000 rpm tree carcass shaper to it was adding safety protection. This was assembled using plexiglass sheets epoxied together to create a shield between users and the cutting tool. The images below show the progress made to the machine.
+Unfortunately, just after printing the final part, the school shut down due to COVID-19, and our group had to finish assembling the machine outside of the lab. We no longer had a good place to work on the project as a group, so I took the machine to my hometown to finish assembling it. After testing movement control of the spindle carrier, the final step before attaching a 500 Watt tree carcass shaper to it was adding safety protection. This was assembled using plexiglass sheets epoxied together to create a shield between users and the cutting tool. The images below show the progress made to the machine.
 
 <img src='/images/base-complete.jpg' alt='machine base complete'>
 
-<img src='/images/side-printed.jpg' alt='3D printed part laying on print bed'>
+Here you can see the beginnings of our project. The bent rod you see on the right is unfortunately not a fisheye distortion. The lead screw is really bent, and it really hurt our schedule waiting for a new one to arrive.
 
-<img src='/images/spindle-holder-printed.jpg' alt='3D printed part laying on print bed'>
+<img src='/images/side-printed.jpg' alt='3D printed part laying on print bed'> <img src='/images/spindle-holder-printed.jpg' alt='3D printed part laying on print bed'>
+
+Here are a few parts I 3D modeled and printed. The small rectangular holes are for sliding in nuts to secure machine screws.
 
 <img src='/images/carrier-complete.jpg' alt='mostly finished machine'>
 
-<img src='/images/t-nuts.jpg' alt='plywood machine base with holes for attaching parts and wasteboard'>
+This is as far as we got before campus was locked down.
 
-<img src='/images/wasteboard.jpg' alt='Wasteboard attached to machine plywood base'>
+<img src='/images/t-nuts.jpg' alt='plywood machine base with holes for attaching parts and wasteboard'> <img src='/images/wasteboard.jpg' alt='Wasteboard attached to machine plywood base'>
+
+Here I'm building the machine's base using plywood and t-nuts to secure waseboard and parts in the future.
 
 <img src='/images/cnc-drawing-test1.jpg' alt='machine fails to draw spirals and decides to draw lines instead'>
 
+Nothing ever works on the first try.
+
 <img src='/images/cnc-drawing-test2.jpg' alt='machine writes the letters s e n in progress of writting senior design flaw'>
+
+After adjusting some settings, the machine was calibrated.
 
 <img src='/images/protective-shield.jpg' alt='plexiglass box missing top and bottom standing on a side to let epoxy dry'>
 
+Safety precautions were made.
+
 <img src='/images/cnc-done.jpg' alt='fully-assembled machine'>
 
+The final product.
 
 Results
 ------
+Owning a CNC machine gives you a lot of artistic freedom. You can carve just about anything into a piece of wood with a comparatively low amount of talent. I wanted to make something unique, and a show called <i>Solar Opposites</i> gave me an idea. In the show, the main characters are aliens and there is an episode where they first learn about man caves. Being aliens, they aren't quite fluent in the english language and mishear "man caves" as "manc aves". As a bit of fun, I made a wooden manc ave sign.
+
 <img src='/images/manc-ave1.jpg' alt='sign with wood burrs around letters'>
+
+This is what the wood looked like after being carved by the machine.
 
 <img src='/images/manc-ave2.jpg' alt='manc ave sign with letters painted black'>
 
+It started to look good after some sanding and a few coats of paint.
+
 <img src='/images/manc-ave3.jpg' alt='wooden sign with charred edges around letters'>
 
+I burnt the edges to give the sign a bit more character.
 
+This machine presents a number of oppurtunities to hobbyist makers. From prototyping parts to making art, after learning basic CAD and CAM, their ability is only limited by their imagination. We are proud to have designed and built our own CNC machine.
 
 Teammates: <a href="https://www.linkedin.com/in/robert-tronnier-2ba4a5172/">Robert Tronnier</a>, <a href="https://www.linkedin.com/in/devin-kohnke-048b6b159/">Devin Kohnke</a>
