@@ -37,7 +37,6 @@ Here you can see the beginnings of our project. The bent rod you see on the righ
   </div>
 </div>
 <br/>
-
 Here are a few parts I 3D modeled and printed. The small rectangular holes are for sliding in nuts to secure machine screws.
 
 <img src='/images/carrier-complete.jpg' alt='mostly finished machine'>
@@ -53,7 +52,6 @@ This is as far as we got before campus was locked down.
   </div>
 </div>
 <br/>
-
 Here I'm building the machine's base using plywood and t-nuts to secure waseboard and parts in the future.
 
 <img src='/images/cnc-drawing-test1.jpg' alt='machine fails to draw spirals and decides to draw lines instead'>
