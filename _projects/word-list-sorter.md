@@ -25,6 +25,6 @@ If you would like to use this (and are using a Windows machine), follow these st
     aFileGateway.SaveWordList(@"C:\Users\<your_username>\Desktop\WordsForTypingPractice.txt", aListOfWords);
     ```
 2. Make a new file on your Desktop named WordsForTypingPractice.txt and add the words you wish to practice separated by a '\|' character.
-3. Run WordListSorter.exe from /bin/Debug/.
+3. Run WordListSorter.exe from \\bin\\Debug\\.
 
 That's it! After copying the text and pasting it into the <a href="https://10fastfingers.com/">10 fast fingers</a> custom typing test form, you are ready to learn to type faster!
