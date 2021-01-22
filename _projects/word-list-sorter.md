@@ -7,9 +7,9 @@ This project was made to aid me in learning to type faster. And by that I don't 
 
 Design process
 -----
-The main goal for this project was to assist me in entering practice typing words into a list. Over my practice sessions, I compiled quite a long list of words, many of which were duplicates. The program was made to sort the list and filter out any repeats. This way, when entering more words to the list, I would not have to worry about if I had already added certain words.
+The main goal for this project was to assist me in entering practice typing words into a list. Over my practice sessions, I compiled quite a long list of words, many of which were duplicates. The program was made to sort the list and filter out any repeats. This way, when needed, I can add more words to the list worryfree.
 
-The program is a .NET Framework console application written in C#. This means the program can run on Windows machines from the command-line. I created two objects: a file gateway and a word list each with their own methods. The file gateway is used to retrive and save files, and the word list is used to sort and filter the list of words.
+The program is a .NET Framework console application written in C#. This means the program can run on Windows machines from the command-line. I created two objects: a file gateway and a word list each with their own methods. The file gateway is used to retrieve and save files, and the word list is used to sort and filter the list of words.
 
 This project's GitHub repository can be seen here: 
 
@@ -22,8 +22,8 @@ If you would like to use this (and are using a Windows machine), follow these st
 <code>aListOfWords = aFileGateway.GetWordList(@"C:\Users\&lt;your_username&gt;\Desktop\WordsForTypingPractice.txt");</code>
 <code>aFileGateway.SaveWordList(@"C:\Users\&lt;your_username&gt;\Desktop\WordsForTypingPractice.txt", aListOfWords);</code>
 
-2. Make a new file on your Desktop named WordsForTypingPractice.txt and add the words you wish to practice separated by a '\|' character.
+3. Make a new file on your Desktop named WordsForTypingPractice.txt and add the words you wish to practice separated by a '\|' character.
 
-3. Run WordListSorter.exe from /bin/Debug/.
+4. Run WordListSorter.exe from /bin/Debug/.
 
 That's it! After copying the text and pasting it into the <a href="https://10fastfingers.com/">10 fast fingers</a> custom typing test form, you are ready to learn to type faster!
