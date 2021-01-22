@@ -15,11 +15,15 @@ This project's GitHub repository can be seen here:
 
 Try it out
 -----
-If you would like to use this, clone my repository and make sure to change the file path on lines 20 and 32 of Program.cs to a location on your machine.
+If you would like to use this (and are using a Windows machine), follow these steps:
 
-<code>aListOfWords = aFileGateway.GetWordList(@"C:\Users\<your_username>\Desktop\WordsForTypingPractice.txt");</code>
-<code>aFileGateway.SaveWordList(@"C:\Users\<your_username>\Desktop\WordsForTypingPractice.txt", aListOfWords);</code>
+1. Clone my repository and change the file path on lines 20 and 32 of Program.cs to a location on your machine. They should look like this:
 
-After making a file in this case named WordsForTypingPractice.txt and adding your words separated by a '|' character, run WordListSorter.exe from /bin/Debug/.
+<code>aListOfWords = aFileGateway.GetWordList(@"C:\Users\&ltyour_username&gt\Desktop\WordsForTypingPractice.txt");</code>
+<code>aFileGateway.SaveWordList(@"C:\Users\&ltyour_username&gt\Desktop\WordsForTypingPractice.txt", aListOfWords);</code>
+
+2. Make a new file on your Desktop named WordsForTypingPractice.txt and add the words you wish to practice separated by a "|" character.
+
+3. Run WordListSorter.exe from /bin/Debug/.
 
 That's it! After copying the text and pasting it into the <a href="https://10fastfingers.com/">10 fast fingers</a> custom typing test form, you are ready to learn to type faster!
