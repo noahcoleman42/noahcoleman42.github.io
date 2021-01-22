@@ -20,7 +20,8 @@ If you would like to use this (and are using a Windows machine), follow these st
 1. Clone my repository and change the file path on lines 20 and 32 of Program.cs to a location on your machine. They should look like this:
     ```
     aListOfWords = aFileGateway.GetWordList(@"C:\Users\<your_username>\Desktop\WordsForTypingPractice.txt");
-    
+    ```
+    ```
     aFileGateway.SaveWordList(@"C:\Users\<your_username>\Desktop\WordsForTypingPractice.txt", aListOfWords);
     ```
 2. Make a new file on your Desktop named WordsForTypingPractice.txt and add the words you wish to practice separated by a '\|' character.
