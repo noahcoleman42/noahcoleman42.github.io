@@ -19,10 +19,10 @@ If you would like to use this (and are using a Windows machine), follow these st
 
 1. Clone my repository and change the file path on lines 20 and 32 of Program.cs to a location on your machine. They should look like this:
 
-<code>aListOfWords = aFileGateway.GetWordList(@"C:\Users\&ltyour_username&gt\Desktop\WordsForTypingPractice.txt");</code>
-<code>aFileGateway.SaveWordList(@"C:\Users\&ltyour_username&gt\Desktop\WordsForTypingPractice.txt", aListOfWords);</code>
+<code>aListOfWords = aFileGateway.GetWordList(@"C:\Users\&lt;your_username&gt;\Desktop\WordsForTypingPractice.txt");</code>
+<code>aFileGateway.SaveWordList(@"C:\Users\&lt;your_username&gt;\Desktop\WordsForTypingPractice.txt", aListOfWords);</code>
 
-2. Make a new file on your Desktop named WordsForTypingPractice.txt and add the words you wish to practice separated by a "|" character.
+2. Make a new file on your Desktop named WordsForTypingPractice.txt and add the words you wish to practice separated by a '\|' character.
 
 3. Run WordListSorter.exe from /bin/Debug/.
 
