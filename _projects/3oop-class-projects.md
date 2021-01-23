@@ -3,13 +3,13 @@ title: "Object Oriented Programming Class Projects"
 excerpt: "Some of the more interesting class projects including a speech synthesizer and a game from <i>The Big Bang Theory</i>"
 collection: projects
 ---
-These are a few of the more interesting projects I made in an Object Oriented Programming (OOP) class. 
+Here are a few projects made in my object oriented programming class. 
 
 [Rock Paper Scissors Lizard Spock](https://github.com/noahcoleman42/RockPaperScissorsLizardSpock)
 -----
 This is a text based implementation of the classic game from _The Big Bang Theory_. As explained in this [video](https://youtu.be/x5Q6-wMx-K8?t=19), the game of rock paper scissors lizard spock has a number of rules to follow that are best understood visually. The following diagram demonstrates how points are scored.
 
-![Vectors pointing from winning to losing hand shapes](https://upload.wikimedia.org/wikipedia/en/c/cc/Rock_paper_scissors_lizard_spock.png)
+![Vectors pointing from winning to losing hand shapes](/images/rock-paper-scissors-lizard-spock.png)
 
 The game is played as follows:
 
@@ -18,6 +18,8 @@ The game is played as follows:
 3. The round winner is determined
 4. A point is awarded to the winner of the round.
 5. Gameplay continues until either the player or the computer reach 3 rounds won in which the winner of the game is determined.
+
+Gameplay:
 
 ![text-based gameplay with ASCII art for hand shapes](/images/game.png)
 
