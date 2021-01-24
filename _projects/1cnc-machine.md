@@ -52,7 +52,7 @@ This is as far as we got before campus was locked down.
   </div>
 </div>
 <br/>
-Here I'm building the machine's base using plywood and t-nuts to secure waseboard and parts in the future.
+Here I'm building the machine's base using plywood and t-nuts to secure wasteboard and parts in the future.
 
 <img src='/images/cnc-drawing-test1.jpg' alt='machine fails to draw spirals and decides to draw lines instead'>
 
@@ -76,7 +76,7 @@ Owning a CNC machine gives you a lot of artistic freedom. You can carve just abo
 
 <img src='/images/manc-ave1.jpg' alt='sign with wood burrs around letters'>
 
-This is what the wood looked like after being carved by the machine.
+This is what the sign looked like after being carved by the machine.
 
 <img src='/images/manc-ave2.jpg' alt='manc ave sign with letters painted black'>
 
