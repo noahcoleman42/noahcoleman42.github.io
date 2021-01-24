@@ -88,4 +88,4 @@ Finally, I burnt the edges to give the sign a bit more character.
 
 This machine presents a number of oppurtunities to hobbyist makers. From prototyping parts to making art, after learning basic CAD and CAM, their ability is only limited by their imagination. We are proud to have designed and built our own CNC machine.
 
-Teammates: <a href="https://www.linkedin.com/in/robert-tronnier-2ba4a5172/">Robert Tronnier</a>, <a href="https://www.linkedin.com/in/devin-kohnke-048b6b159/">Devin Kohnke</a>
+Teammates: <a href="https://www.linkedin.com/in/robert-tronnier-2ba4a5172/" target="_blank">Robert Tronnier</a>, <a href="https://www.linkedin.com/in/devin-kohnke-048b6b159/" target="_blank">Devin Kohnke</a>

@@ -5,7 +5,7 @@ collection: projects
 ---
 Here are a few projects made in my object oriented programming class. 
 
-[Rock Paper Scissors Lizard Spock](https://github.com/noahcoleman42/RockPaperScissorsLizardSpock)
+Rock Paper Scissors Lizard Spock
 -----
 This is a text based implementation of the classic game from _The Big Bang Theory_. As explained in this [video](https://youtu.be/x5Q6-wMx-K8?t=19), the game of rock paper scissors lizard spock has a number of rules to follow that are best understood visually. The following diagram demonstrates how points are scored.
 
@@ -23,12 +23,12 @@ Gameplay:
 
 ![text-based gameplay with ASCII art for hand shapes](/images/game.png)
 
-To play for yourself, check out the [GitHub repository](https://github.com/noahcoleman42/RockPaperScissorsLizardSpock)!
+To play for yourself, check out the <a href="https://github.com/noahcoleman42/RockPaperScissorsLizardSpock" target="_blank">GitHub repository</a>!
 
-[Speech Synthesizer](https://github.com/noahcoleman42/SpeechSynthesizer)
+Speech Synthesizer
 -----
 Hearing computer voices always feels strange to me. The words are familiar yet their tempo and articulation is unlike any spoken English I have ever heard. This dissociation leads to a general sense of eerieness, perfect for your next halloween party or other spooky occasion.
 
 This program implements a speech sythesizer to read a song's lyrics from a .txt file.
 
-Check out the [GitHub repository](https://github.com/noahcoleman42/SpeechSynthesizer)!
+Check out the <a href="https://github.com/noahcoleman42/SpeechSynthesizer" target="_blank">GitHub repository</a>!
