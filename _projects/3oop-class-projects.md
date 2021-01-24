@@ -25,7 +25,10 @@ Gameplay:
 
 To play for yourself, check out the [GitHub repository](https://github.com/noahcoleman42/RockPaperScissorsLizardSpock)!
 
-Speech Synthesizer
+[Speech Synthesizer](https://github.com/noahcoleman42/SpeechSynthesizer)
 -----
+Hearing computer voices always feels strange to me. The words are familiar yet their tempo and articulation is unlike any spoken English I have ever heard. This dissociation leads to a general sense of eerieness, perfect for your next halloween party or other spooky occasion.
 
-short description
+This program implements a speech sythesizer to read a song's lyrics from a .txt file.
+
+Check out the [GitHub repository](https://github.com/noahcoleman42/SpeechSynthesizer)!
