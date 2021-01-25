@@ -7,7 +7,7 @@ Here are a few projects made in my object oriented programming class.
 
 Rock Paper Scissors Lizard Spock
 -----
-This is a text based implementation of the classic game from _The Big Bang Theory_. As explained in this [video](https://youtu.be/x5Q6-wMx-K8?t=19), the game of rock paper scissors lizard spock has a number of rules to follow that are best understood visually. The following diagram demonstrates how points are scored.
+This is a text based implementation of the classic game from _The Big Bang Theory_. As explained in this <a href="https://youtu.be/x5Q6-wMx-K8?t=19" target="_blank">video</a>, the game of rock paper scissors lizard spock has a number of rules to follow that are best understood visually. The following diagram demonstrates how points are scored.
 
 ![Vectors pointing from winning to losing hand shapes](/images/rock-paper-scissors-lizard-spock.png)
 

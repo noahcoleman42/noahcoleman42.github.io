@@ -4,4 +4,6 @@ excerpt: "Selenium-based web scraper that displays information about Craigslist 
 collection: projects
 ---
 
-Add info here
+What is a web scraper?
+-----
+A web scraper is a program that extracts content from a website. They are used to automate the process of gathering information.
