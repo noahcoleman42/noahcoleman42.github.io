@@ -10,21 +10,13 @@ Web scrapers are programs that extract content from a website. They are used to 
 
 Why I made one
 -----
-This project was inspired by the desire to save time while browsing on Craigslist. The process of clicking in and out of listings and reading descriptions can be time consuming. I wanted to create a program that would get the price, date, and title from all the listings, and from there I could go through my condensed format and find what suited my needs.
+This project was inspired by the desire to save time while browsing Craigslist. The process of clicking in and out of listings and reading descriptions can be time consuming. I wanted to create a program that would get the price, date, and title from all the listings, and from there I could go through my condensed format and find what suited my needs.
 
 How I made it
 -----
-learned selenium's python package first
-wrote a console application in c#
-used console application code to make ASP.NET site.
-
-After selecting Selenium's WebDriver framework, the first thing I needed do was learn how web scrapers work. I found a <a href="https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ" target="_blank">tutorial series</a> which taught me the basics of using the Selenium WebDriver libraries in Python. The series covered the topic with some rather interesting examples including a cookie clicker bot. The robot navigatates to <a href="https://orteil.dashnet.org/cookieclicker" target="_blank">a cookie clicker website</a> where normally, you would mindlessly click a cookie over and over gaining points. There are also upgrades which accelerate your cookie collecting pursuit. The program scrapes information from the webpage finding the location of the cookie on the screen, the number of cookies collected, and the price and location on the screen of upgrades. It then begins to constantly click the cookie and perform upgrades as they become available. The gifs below shows this.
+After selecting Selenium's WebDriver framework, the first thing I needed do was learn how web scrapers work. I found a <a href="https://www.youtube.com/watch?v=Xjv1sY630Uc&list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ" target="_blank">tutorial series</a> which taught me the basics of using the Selenium WebDriver libraries in Python. The series covered the topic with some rather interesting examples including a cookie clicker bot. The robot navigatates to <a href="https://orteil.dashnet.org/cookieclicker" target="_blank">a cookie clicker website</a> where normally, you would mindlessly click a cookie over and over gaining points. There are also upgrades which accelerate your cookie collecting pursuit. The program scrapes information from the webpage finding the location of the cookie on the screen, the number of cookies collected, and the price and location on the screen of upgrades. It then begins to constantly click the cookie and perform upgrades as they become available. This can be seen below.
 
 <img src="/images/cookie1.gif" alt="robot clicking cookie">
-
-After a number of cursor upgrades, the bot chooses the grandma upgrade as it becomes the cheapest option.
-
-<img src="/images/cookie2.gif" alt="robot upgrading cookie clicker">
 
 My GitHub repository for this project can be seen <a href="https://github.com/noahcoleman42/CookieClicker" target="_blank">here</a>.
 
@@ -32,11 +24,16 @@ From this project, I gained the knowledge I needed to create my own web scraper 
 
 <img src="/images/clist-tp-posts.png" alt="list of Craigslist posts in text format">
 
-Next, I used my newly gained knowledge to write a console application in C#. I did this becasue I wanted to make the program into a web application, and I was familiar with the ASP.NET framework. There were slight variations in package names and function calls between the languages, but nothing too drastic. The new program has all the functionality of the program written in Python, but adds user interaction in the form of asking users what they are searching for, and in addition to printing the condensed information to the console, it saves the list of posts to a CSV file. The media below shows this.
+Next, I used my newly gained knowledge to write a console application in C#. I did this becasue I eventually wanted to make the program into a web application, and I was familiar with the ASP.NET framework. There were slight variations in package names and function calls between the languages, but nothing too drastic. The new program has all the functionality of the program written in Python, but adds user interaction in the form of asking users what they are searching for, and in addition to printing the condensed information to the console, it saves the list of posts to a CSV file. This can be seen below.
 
 <img src="/images/clist-search.gif" alt="searching for toilet paper using web scraper">
 
 <img src="/images/tp-csv.png" alt="search results in csv format">
 
-The final blah I wanted to add was total user control
+The final features I added gave the user total control. To make the tool more accessible, I built the project into a web application that let users enter thier location and what they were searching for. After collecting the necessary information, the program dispays it on the webpage. This can be seen below.
 
+<img src="/images/tp-search.gif" alt="searching for toilet paper using web scraper">
+
+<img src="/images/tp-results.gif" alt="search results in table format">
+
+Check out <a href="" target="_blank">my GitHub repository for this project</a>!
