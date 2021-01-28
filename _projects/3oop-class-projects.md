@@ -14,8 +14,8 @@ This is a text based implementation of the classic game from _The Big Bang Theor
 The game is played as follows:
 
 1. The player chooses a hand either numerically by choosing a number between 1 and 5, or by entering the name of the hand shape chosen.
-2. The computer randomly chooses a shape to throw
-3. The round winner is determined
+2. The computer randomly chooses a shape to throw.
+3. The round winner is determined.
 4. A point is awarded to the winner of the round.
 5. Gameplay continues until either the player or the computer reach 3 rounds won in which the winner of the game is determined.
 
