@@ -3,7 +3,6 @@ title: "Object Oriented Programming Class Projects"
 excerpt: "Some of the more interesting class projects including a speech synthesizer and a game from <i>The Big Bang Theory</i>"
 collection: projects
 ---
-Here are a few projects made in my object oriented programming class. 
 
 Rock Paper Scissors Lizard Spock
 -----
