@@ -18,7 +18,7 @@ We spent the first week determining the major components of the project. During 
     <img src='/images/bike-alert-block-diagram.jpg' alt='diagram showing system interconnections' style='width:100%'>
   </div>
   <div class='two-images'>
-    <img src='/images/bike-alert-disassembled.png' alt='gray open box with mess of wires and electronics inside' style='width:100%'>
+    <img src='/images/bike-alert-disassembled.jpg' alt='gray open box with mess of wires and electronics inside' style='width:100%'>
   </div>
 </div>
 <br/>
