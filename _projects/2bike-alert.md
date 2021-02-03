@@ -36,7 +36,7 @@ After the course ended, I wanted to see the project through to a more useful sta
 
 Connected to the Pi is Google's Coral USB Accelerator. The accelerator uses <a href="https://cloud.google.com/edge-tpu" target="_blank">Google's Edge TPU processor</a> which processes deep learning models <a href="https://cloud.google.com/blog/products/ai-machine-learning/what-makes-tpus-fine-tuned-for-deep-learning" target="_blank">much faster than a CPU or a GPU</a>. With it, we increase the number of frames the Pi can process from 5 to 30 frames per second. The human detection model used is <a href="https://www.tensorflow.org/lite/models/object_detection/overview" target="_blank">Google's sample TensorFlow Lite object detection model</a> that has been compiled to run on the Coral USB Accelerator.
 
-See my GitHub repository <a href="" target="_blank">here</a>.
+See my GitHub repository <a href="https://github.com/noahcoleman42/BikeAlert" target="_blank">here</a>.
 
 For more information
 -----
