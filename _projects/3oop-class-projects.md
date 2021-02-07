@@ -26,7 +26,7 @@ To play for yourself, check out the <a href="https://github.com/noahcoleman42/Ro
 
 Speech Synthesizer
 -----
-Hearing computer voices always feels strange to me. The words are familiar yet their tempo and articulation is unlike any spoken English I have ever heard. This dissociation leads to a general sense of eerieness, perfect for your next halloween party or other spooky occasion.
+Computer voices always sound a bit strange. The words are familiar, yet their tempo and articulation are unlike any commonly spoken English. A speech synthesizer provides the perfect balance between eerieness and comfort to make you laugh.
 
 This program implements a speech sythesizer to read a song's lyrics from a .txt file.
 
