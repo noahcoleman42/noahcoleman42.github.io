@@ -26,7 +26,7 @@ To play for yourself, check out the <a href="https://github.com/noahcoleman42/Ro
 
 Speech Synthesizer
 -----
-Computer voices always sound a bit strange. The words are familiar, yet their tempo and articulation are unlike any commonly spoken English. A speech synthesizer provides the perfect balance between eerieness and comfort to make you laugh.
+Computer voices always sound a bit off. The words are familiar, yet their tempo and articulation are unlike any commonly spoken English. A speech synthesizer provides the perfect balance between eeriness and comfort to make you laugh.
 
 This program implements a speech sythesizer to read a song's lyrics from a .txt file.
 
