@@ -8,7 +8,7 @@ Rock Paper Scissors Lizard Spock
 -----
 This is a text based implementation of the classic game from _The Big Bang Theory_. As explained in this <a href="https://youtu.be/x5Q6-wMx-K8?t=19" target="_blank">video</a>, the game of rock paper scissors lizard spock has a number of rules to follow that are best understood visually. The following diagram demonstrates how points are scored.
 
-![Vectors pointing from winning to losing hand shapes](/images/rock-paper-scissors-lizard-spock.png)
+<img src='/images/rock-paper-scissors-lizard-spock.png' alt='Vectors pointing from winning to losing hand shapes' width='350' height='300'>
 
 The game is played as follows:
 
@@ -20,7 +20,7 @@ The game is played as follows:
 
 Gameplay:
 
-![text-based gameplay with ASCII art for hand shapes](/images/game.png)
+<img src='/images/game.png' alt='text-based gameplay with ASCII art for hand shapes' width='769' height='1405'>
 
 To play for yourself, check out the <a href="https://github.com/noahcoleman42/RockPaperScissorsLizardSpock" target="_blank">GitHub repository</a>!
 
