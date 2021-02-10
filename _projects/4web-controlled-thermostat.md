@@ -30,7 +30,6 @@ I used Flask to build the web server. The website can be seen below.
   </div>
 </div>
 <br/>
-
 The final step needed to launch the project to the internet full-time is adding security. I plan on learning more about securing the device and implementing a solution soon. This project has been a great learning experience and has already made heating my home more convenient.
 
 See my GitHub repository here.
