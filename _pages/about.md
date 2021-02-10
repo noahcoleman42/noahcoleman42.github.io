@@ -12,7 +12,7 @@ I am a computer engineering graduate who loves to make things. I am fascinated b
 
 Skills
 ======
-<img src='/images/skills.png' alt='bar graph of proficiency in skills'>
+<img src='/images/skills.png' alt='bar graph of proficiency in skills' width='769' height='457'>
 
 TL;DR
 ------
